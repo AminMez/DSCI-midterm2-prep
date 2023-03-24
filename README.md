@@ -1,3 +1,1 @@
-# Titanic-Analysis
-
-Using Knn to predict survived and died passenger in titanic 
+# These are the materials used to prepare for midterm 2
